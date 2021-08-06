@@ -1,3 +1,3 @@
 # DATASCIENCE-Python
 
-Here  have some projects in python, where I just learning.
+Here  have some projects in python, where I'm just learning.
